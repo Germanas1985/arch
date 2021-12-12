@@ -1,4 +1,5 @@
 #!/bin/bash
+
     bash preinstall.sh
     arch-chroot /mnt /root/arch/1-setup.sh
     source /mnt/root/arch/install.conf
